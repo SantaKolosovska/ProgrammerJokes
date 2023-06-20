@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(19, 17, 14);
+    padding-right: 6%;
+    padding-left: 6%;
+    color: azure;
+}
+
+.card-body {
+    background-color: rgb(19, 17, 14);
+    padding-right: 6%;
+    padding-left: 6%;
+    color: azure;
+    font-size: large;
+}
+
+.container {
+    font-family: 'Courier New', Courier, monospace;
+    height: 30pc;
+    width: 30pc;
+    /* padding-top: 10pc; */
+}
+
+.cardDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    background-color: rgb(19, 17, 14);
+    color: azure;
+    width: 400px;
+}
+
+.card-text {
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#randomBtn {
+    background-color: aquamarine;
+    font-weight: bolder;
+}
+
+#allBtn {
+    font-weight: bolder;
+    background-color: cyan;
+    margin-top: 25px;
+}
+
+.output {
+    color: azure;
+    padding-top: 3pc;
+}
+
+p {
+    color: azure;
+}
+
+#backBtn {
+    width: 400px;
+    font-weight: bolder;
+    font-size: large;
+    background-color: rgb(255, 197, 131);
+    margin-bottom: 7pc;
+}
+
+#regenerateBtn {
+    width: 400px;
+    font-weight: bolder;
+    font-size: large;
+    background-color: rgb(253, 253, 141);
+    margin-top: 3pc;
+    margin-bottom: 25px;
+}
+
+#allJokesContainer {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
