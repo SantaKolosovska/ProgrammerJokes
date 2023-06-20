@@ -1,6 +1,6 @@
 # Programming Jokes
 
-* *Created as homework for Internet Technologies at VilniusTech. Task was to dynamically generate page contents using HTML, CSS and Javascript after calling two APIS and parsing the data.* *
+*Created as homework for Internet Technologies at VilniusTech. Task was to dynamically generate page contents using HTML, CSS and Javascript after calling two APIS and parsing the data.* 
 
 **Instructions:**
 Download files and open index.html in any web browser.
